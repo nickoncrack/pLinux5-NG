@@ -97,7 +97,7 @@ This project is licensed under the **AGPL-3.0** licence.
 The boot path and shellcode are derived from **ps5-linux-loader**, which is
 **GPL-3.0**; those files retain their original authorship and are used here in
 accordance with the GPL/AGPL compatibility provisions. The high-firmware escape
-is adapted from **Byepervisor-Reborn**. See [`PORTING.md`](PORTING.md#credits).
+is adapted from **Byepervisor-Reborn**.
 
 ## legal
 I, niko86c/pLabs5, as well as its contributers, are not affiliated with, associated with, sponsored by, endorsed by or otherwise established with Sony Interactive Entertainment, Playstation, or any of their other companies or works unless explictly stated otherwise.
